@@ -29,7 +29,7 @@ Bevor du das Skript ausführst, stelle sicher, dass du drei Ordner eingerichtet 
    Hier wird die SQLite-Datenbank erstellt und gespeichert. Diese Datenbank enthält Informationen über die Musikdateien und deren Metadaten.  
    Beispiel:  
    ```dos
-   set "program_folder=C:\Users\Christian\MyMusicSoft"
+   set "program_folder=C:\Users\Christian\SqLite"
    ```
 
 ---
