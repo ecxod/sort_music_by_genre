@@ -4,7 +4,7 @@ setlocal enabledelayedexpansion
 :: Benutzereingaben
 set "input_folder=C:\Users\Christian\MyMusic"
 set "output_folder=C:\Users\Christian\MyMusicByGenre"
-set "program_folder=C:\Users\Christian\MyMusicSoft"
+set "program_folder=C:\Users\Christian\SqLite"
 set "pattern=%%genre%%\%%artist%% - %%title%% (%%date%%)"
 
 :: Erlaubte Muster
