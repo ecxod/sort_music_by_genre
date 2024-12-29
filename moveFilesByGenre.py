@@ -6,7 +6,7 @@ import subprocess
 # Benutzereingaben
 input_folder = r"C:\Users\Christian\MyMusic"
 output_folder = r"C:\Users\Christian\MyMusicByGenre"
-program_folder = r"C:\Users\Christian\MyMusicSoft"
+program_folder = r"C:\Users\Christian\SqLite"
 db_file = os.path.join(program_folder, "music_metadata.db")
 
 # SQLite-Datenbank initialisieren
